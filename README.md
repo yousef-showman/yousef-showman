@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<!--
-**yousef-showman/yousef-showman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Yousef Showman, a computer science student with a strong interest in backend development and high-performance computing (HPC). I enjoy building efficient systems and experimenting with performance.
 
-Here are some ideas to get you started:
+These days I’m focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend development 
+
+High-Performance Computing & parallel programming 
+
+Machine Learning & Computer Vision (driver drowsiness detection)
+
+Competitive programming & algorithmic problem solving
+
