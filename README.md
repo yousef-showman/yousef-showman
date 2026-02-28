@@ -3,8 +3,8 @@
 <h1 align="center">Hi, I'm Yousef Showman 👋</h1>
 
 <p align='center'>
-<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/yousef-s-169a87320/)"><img height="30" src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"/></a>
-<a href="[https://github.com/YOUR_GITHUB](https://github.com/yousef-showman)"><img height="30" src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png"/></a>
+<a href="(https://www.linkedin.com/in/yousef-s-169a87320/)"><img height="30" src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"/></a>
+<a href="(https://github.com/yousef-showman)"><img height="30" src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png"/></a>
                                                                                                                               
 ---
 
