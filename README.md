@@ -2,14 +2,7 @@
 
 <h1 align="center">Hi, I'm Yousef Showman 👋</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yousef-s-169a87320/">
-    <img height="30" src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"/>
-  </a>
-  <a href="https://github.com/yousef-showman">
-    <img height="30" src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png"/>
-  </a>
-</p>                                                                                                                              
+                                                                                                                         
 ---
 
 I’m Yousef Showman, a computer science student with a strong interest in **backend development** and **high-performance computing (HPC)**. I enjoy building efficient systems and experimenting with performance.
