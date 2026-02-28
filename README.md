@@ -1,7 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yousef%20Showman&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-<h1 align="center">Hi, I'm Yousef Showman 👋</h1>
-
+<img src="https://capsule-render.vercel.app/api?
+type=waving
+&color=0:0f2027,50:203a43,100:2c5364
+&height=220
+&section=header
+&text=Computer%20Science%20Student%20|%20Backend%20%26%20HPC
+&fontSize=28
+&fontColor=ffffff
+&animation=fadeIn
+&fontAlignY=40" />
                                                                                                                          
 ---
 
